@@ -1,6 +1,6 @@
 # HelioFlux
 
-HelioFlux is a platform designed to optimize energy consumption for households and businesses with solar panels. By utilizing time-of-use (TOU) or time-of-day (TOD) electricity tariffs, HelioFlux helps users maximize their savings by strategically shifting energy usage to periods of lower electricity costs and utilizing stored solar energy during peak pricing times.
+HelioFlux is an idea designed to optimize energy consumption for households and businesses with solar panels. By utilizing time-of-use (TOU) or time-of-day (TOD) electricity tariffs, HelioFlux helps users maximize their savings by strategically shifting energy usage to periods of lower electricity costs and utilizing stored solar energy during peak pricing times.
 
 ## Key Features
 
